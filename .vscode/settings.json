@@ -1,9 +1,9 @@
 {
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit"
-    }
+    },
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "cSpell.words": [
+        "geolocator"
+    ]
 }
-
-// "explorer.experimental.fileNesting.patterns": {
-//     "pubspec.yaml": ".packages, .metadata, pubspec.lock, analysis_options.yaml",
-// },
