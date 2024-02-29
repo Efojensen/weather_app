@@ -4,6 +4,8 @@
     },
     "editor.defaultFormatter": "Dart-Code.dart-code",
     "cSpell.words": [
-        "geolocator"
+        "geolocator",
+        "placemark",
+        "placemarks"
     ]
 }
